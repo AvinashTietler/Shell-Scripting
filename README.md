@@ -8,3 +8,4 @@ Day 1 [Introduction to Shell Script](https://medium.com/@devopsdiariesinfo/day-1
 
 Day 2 [Your First Shell Script](https://medium.com/@devopsdiariesinfo/shell-day-2-writing-your-first-shell-script-1697d61330b2)
 
+Day 3 [Variable and Data Type](https://medium.com/@devopsdiariesinfo/day-3-variables-and-data-types-2b91d93be714)
