@@ -5,6 +5,8 @@
 
 #𝟐-𝐰𝐞𝐞𝐤 Shell Scripting 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐩𝐥𝐚𝐧 from Basics to Advanced
 
+# Week 1
+
 Day 1 [Introduction to Shell Script](https://medium.com/@devopsdiariesinfo/day-1-introduction-to-shell-scripting-8e8a35d1ceea)
 
 [Basic Linux Commands For Shell Scripting](https://medium.com/@devopsdiariesinfo/linux-commands-for-shell-scripting-ebfd58f9f1bc)
@@ -23,6 +25,8 @@ Day 6 [Handling Arguments & Input in Scripts ](https://medium.com/@devopsdiaries
 
 Day 7 [Exit Status and Error Handling](https://medium.com/@devopsdiariesinfo/exit-status-error-handling-1fc99d72b6b0)
 
+# Week 2
+
 Day 8 [Files and Directories](https://medium.com/@devopsdiariesinfo/working-with-files-and-directories-641a9a77388e)
 
 Day 9 [Logging and Debugging Scripts](https://medium.com/@devopsdiariesinfo/logging-and-debugging-scripts-f303d61f0bd4)
@@ -30,6 +34,13 @@ Day 9 [Logging and Debugging Scripts](https://medium.com/@devopsdiariesinfo/logg
 Day 10 [Process Management in Shell](https://medium.com/@devopsdiariesinfo/shell-scripting-day-10-e583a09fbcbf)
 
 Day 11 [Working with Arrays and String](https://medium.com/@devopsdiariesinfo/working-with-arrays-and-string-970264be9fd5)
+
+Day 12 [Networking in Shell Scripting](https://medium.com/@devopsdiariesinfo/networking-in-shell-scripting-c3512ccd70b9)
+
+Day 13 [Automating Tasks with Shell Scripts](https://medium.com/@devopsdiariesinfo/automating-tasks-with-shell-scripts-bed4d3eeb51f)
+
+Day 14 [Integrating Shell Scripts with Other Tools](https://medium.com/@devopsdiariesinfo/integrating-shell-scripting-with-other-tools-4ad01e078546)
+
 
 
 
